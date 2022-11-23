@@ -3,7 +3,7 @@
 
 ## :dart: About ##
 
-Made using UIKit with Swift language. Core Data was used as the local database. Tmdb and youtube api were used for the API.
+Made using UIKit with Swift language. Core Data was used as the local database. TMDB and YouTube API were used for the API.
 
 ## :rocket: Technologies ##
 
